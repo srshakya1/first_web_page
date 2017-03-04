@@ -1,0 +1,1 @@
+This is a web page that I built using the HTML basics and CSS basics from a website. It is purely to try out different functions of HTML and CSS, and start to understand how websites are put together by the browser.
