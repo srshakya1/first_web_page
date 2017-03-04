@@ -1,0 +1,31 @@
+html {
+	font-family: 'Droid Sans', sans-serif;
+	background-color: #000000;
+}
+h1 {
+	font-size: 60px;
+	text-align: center; /* this is to center the title*/
+	margin:0; /* this is here because the default html top margin is weird, so we set it to 0 */
+	padding: 20px 0;
+	color: #00539F;
+	text-shadow: 3px 3px 1px black;
+
+}
+img {
+	display: block;
+	margin: 0 auto;
+}
+p {
+	text-align: center;
+}
+li {
+	margin-left: auto; /* this is allowing the bullet points to start on the left*/
+	font-size: 20px;
+}
+body {
+	width: 900px; /*this is commented out because I'd rather not have it on my site tbh */
+	margin: 0 auto;
+	padding: 0 20px 20pc 20px;
+	border: 5px solid black;
+	background-color: #CC3C3C;
+}
